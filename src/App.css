@@ -1,0 +1,27 @@
+.navbar-brand {
+    cursor: default;
+    font-style: italic;
+}
+
+.navbar-brand > img {
+    height: 60px;
+}
+
+.order > div {
+    display: flex;
+    justify-content: center;
+}
+ 
+.order button {
+    width: max-content;
+    margin: 2rem 0 2rem 0;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 0.8rem;
+    font-style: italic;
+}
